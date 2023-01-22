@@ -62,7 +62,7 @@ nav li.active a {
 .hero h1 {
   color: var(--fifth-color);
   font-family: var(--head-font-family);
-  font-size: 76px;
+  font-size: 63px;
   font-weight: bold;
   margin: 5;
 }
